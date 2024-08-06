@@ -1,0 +1,28 @@
+Timestamp,Level,What department are you in?,"How many years have you been with the company? 
+For more detail, please use decimals. For example 3.5 (no need to write years). ",Latitude and Longitude,What is you pincode? (optional),"How long, in minutes, is your current commute on average? Please enter only numbers",How do you commute?,What is your age?,What is your gender?,Are you married?,How many children do you have?,Which do you live in?,Is having daycares / schools near your office important to you?,"If your office considered shifting, would you like to stay living where you are? ",Please enter the pincode of where you would like to live (optional),Would you prefer salary raises or more work from home option?,Is your current office space managed by Indiqube?,"In your opinion, does your current Indiqube workplace provide an overall better employee experience than your last office space? (services provided, cleanliness, attractiveness of space, etc.) ",How often do you use the MiQube app?,How useful do you find the MiQube app?,Write down any words you associate with Indiqube. (optional),Do you have an feedback or suggestions for Indiqube? (optional)
+7/23/2024 12:30:11,Non executive,Marketing,0.25,"12.929219184155466, 77.62771079999999",,30,Two wheeler EV,20,Man,No,0,PG,1,1,,1,No,4,2,1,Flexible,
+,Non executive,IT,1.5,"12.950795517102389, 77.61704047253774",,40,Two Wheeler EV,24,Man,No,0,PG,1,2,,2,Yes,5,4,4,Friendly,
+,Non executive,HR,2,"12.940321422890475, 77.58458798397496",,50,Two Wheeler non EV,25,Man,No,0,PG,1,3,,3,Yes,5,4,2,Good,
+,Mid level executive or manager,Marketing,3,"12.904480264661224, 77.60113032392418",,90,Personal Car EV,28,Man,No,0,Rented apartment,1,4,,4,Yes,4,4,4,,
+,"Upper level executive, VP, etc.",IT,4,"12.964452253042428, 77.647491021871",,60,Personal Car non EV,50,Man,Yes,1,Rented house,3,5,,5,Yes,4,5,1,Flexible,
+,Non executive,HR,4,"12.904766857262652, 77.65055447308434",,30,Bus,20,Woman,No,0,PG,1,1,,1,Yes,2,4,2,Friendly,
+,Non executive,Marketing,0.25,"12.91272292836531, 77.60005875186815",,40,Metro,24,Woman,No,0,PG,1,2,,2,Yes,4,5,4,Good,
+,Non executive,IT,1.5,"12.92160099897878, 77.65574132540011",,50,Auto,25,Woman,No,0,PG,1,3,,3,Yes,5,5,4,,
+,Mid level executive or manager,HR,2,"12.965316701154919, 77.60349594776518",,90,"Namma Yatri, Uber, Rapido, etc.",28,Woman,No,0,Rented apartment,3,4,,4,Yes,5,1,4,Flexible,
+,"Upper level executive, VP, etc.",HR,3,"12.985316701154919, 77.62349594776518",,60,Combination of these,30,Woman,Yes,1,Rented house,3,5,,5,Yes,5,1,5,Friendly,
+,Non executive,Sales,7,"12.928673091493646, 77.62768449391136",,20,Two wheeler EV,45,Woman,Yes,1,Rented apartment,4,4,,1,Yes,4,1,1,Good,
+,Non executive,Sales,5,"12.931753829161032, 77.68596370740529",,40,Two Wheeler EV,40,Woman,Yes,2,Rented house,3,5,,2,Yes,5,2,4,,
+,Non executive,Finance / Accounting,4,"12.908797642207588, 77.6898825905695",,45,Two Wheeler non EV,38,Woman,Yes,1,Rented apartment,4,4,,3,Yes,5,3,2,,
+,Mid level executive or manager,Finance / Accounting,2,"12.9859981398592, 77.57544875844742",,30,Personal Car EV,34,Woman,Yes,1,Rented house,3,5,,4,Yes,4,1,4,Flexible,
+,"Upper level executive, VP, etc.",Facilites ,3,"12.965851509909518, 77.74440985832841",,15,Personal Car non EV,36,Man,Yes,2,Rented apartment,1,2,,5,Yes,4,1,1,Friendly,
+,Non executive,Help Desk,2,"12.96394096889174, 77.75136078955641",,45,Bus,45,Man,Yes,1,Rented house,2,5,,1,Yes,2,1,2,Good,
+,Non executive,Help Desk,3,"12.97609870681235, 77.75421245364996",,50,Metro,27,Man,No,0,Rented apartment,1,1,,2,Yes,4,2,4,,
+,Non executive,Help Desk,7,"12.978877534893352, 77.74423162932256",,25,Auto,37,Man,No,0,Rented house,2,5,,3,Yes,5,3,4,,
+,Mid level executive or manager,Procurement ,5,"12.96776203625938, 77.67472231704247",,30,"Namma Yatri, Uber, Rapido, etc.",31,Man,No,0,Rented apartment,2,2,,4,Yes,5,1,4,,
+,"Upper level executive, VP, etc.",Other,4,"12.902101007600418, 77.63978943189659",,60,Combination of these,33,Woman,Yes,1,Rented house,1,5,,5,Yes,5,1,5,,
+,Non executive,HR,2,"12.955165692277408, 77.65647611059583",,90,Two wheeler EV,43,Man,Yes,1,Rented apartment,2,4,,1,Yes,4,1,1,Flexible,Work from home
+,Non executive,HR,3,"12.977231041034713, 77.67699128792579",,75,Two Wheeler EV,26,Man,No,0,PG,1,3,,2,Yes,5,2,2,Friendly,
+,Non executive,Sales,4,"12.951119323485877, 77.69318585350366",,70,Two Wheeler non EV,44,Man,Yes,1,Rented apartment,2,2,,3,Yes,5,3,3,Good,hybrid schedule
+,Mid level executive or manager,Sales,5,"12.968344329256198, 77.6892580246381",,80,Personal Car EV,34,Man,Yes,2,Rented house,2,5,,4,Yes,4,3,3,,hybrid schedule
+,"Upper level executive, VP, etc.",Finance / Accounting,2,"12.993222787600665, 77.63957098948865",,90,Personal Car non EV,30,Man,Yes,1,Rented apartment,2,3,,5,Yes,4,2,2,,hybrid schedule
+,Non executive,Finance / Accounting,3,"12.922982586840005, 77.60264939815228",,120,Bus,31,Woman,Yes,1,Rented house,2,4,,1,Yes,2,1,1,,
