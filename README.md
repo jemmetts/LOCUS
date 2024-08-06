@@ -8,5 +8,8 @@ I did it all in Google Colaboratory, and I suggest downloading the file and uplo
 Running in Colab is easy, but building the product out more may require shifting. 
 If you are reading this and think it's interesting, please reach out and we can build this into a useful service for the world!
 
+
+I need help!
+
 ## Project Slideshow
 [Download the project slideshow](./LOCUS_Pitch_Deck.pdf)
