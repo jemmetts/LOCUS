@@ -12,4 +12,4 @@ If you are reading this and think it's interesting, please reach out and we can 
 I need help!
 
 ## Project Slideshow
-[Download the project slideshow](./LOCUS_Pitch_Deck_8/7/24.pdf)
+[Download the project slideshow](./LOCUS_Pitch_Deck_8:7:24.pdf)
