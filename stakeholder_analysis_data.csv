@@ -1,0 +1,101 @@
+Timestamp,Level,What department are you in?,How many years have you been with the company?,Latitude and Longitude,What is your pincode? (optional),"How long, in minutes, is your current commute on average?",How do you commute?,What is your age?,What is your gender?,Are you married?,How many children do you have?,Which do you live in?,Is having daycares / schools near your office important to you?,"If your office considered shifting, would you like to stay living where you are?",Please enter the pincode of where you would like to live (optional),Would you prefer salary raises or more work from home option?
+11/04/2024 08:25:00,Manager,HR,5.33,"-36.006308, -175.487338",204955,57,Public transport,38,Other,Yes,1,Rented House,No,Yes,101449,More work from home option
+09/27/2024 19:53:00,Non executive,Finance,13.88,"-53.751763, 95.504568",209436,36,Walk,54,Other,No,4,Apartment,No,No,979786,Salary raises
+07/17/2024 08:38:00,Manager,IT,9.79,"62.682825, -28.206958",166702,100,Public transport,57,Man,Yes,3,Rented House,Yes,Yes,256980,Salary raises
+10/20/2024 00:46:00,Senior Manager,Marketing,7.79,"-88.409224, 122.626854",897889,92,Bicycle,33,Woman,No,3,Hostel,Yes,Yes,297727,More work from home option
+11/09/2024 06:04:00,Non executive,Customer Support,10.87,"71.648379, 17.628008",773137,56,Public transport,54,Other,Yes,0,Hostel,No,No,224531,More work from home option
+10/14/2024 12:07:00,Manager,Marketing,14.61,"55.44215, 76.450976",100154,118,Bicycle,22,Other,No,0,Rented House,Yes,Yes,477451,More work from home option
+12/02/2024 01:58:00,Executive,IT,15.51,"31.511565, -137.635064",952198,81,Two wheeler EV,22,Woman,Yes,1,PG,No,Yes,352451,More work from home option
+02/13/2024 22:03:00,VP,Marketing,10.27,"-60.498507, -42.230735",820912,58,Car,49,Woman,Yes,2,Hostel,No,No,237585,Salary raises
+05/06/2024 11:13:00,Executive,Marketing,9.09,"-48.430059, 22.155846",841769,90,Bicycle,45,Man,No,2,Rented House,No,Yes,438899,Salary raises
+07/12/2024 05:06:00,Senior Manager,Customer Support,3.63,"15.937813, -31.880724",487512,9,Walk,38,Woman,Yes,1,Rented House,No,Yes,376742,More work from home option
+06/02/2024 13:23:00,Non executive,IT,13.82,"-39.101055, -121.507824",269354,5,Carpool,55,Other,No,0,Hostel,Yes,Yes,866252,Salary raises
+08/24/2024 19:36:00,Non executive,Marketing,4.49,"22.266504, -1.497787",692001,79,Two wheeler EV,35,Man,Yes,0,PG,No,Yes,268694,Salary raises
+04/07/2024 15:56:00,VP,R&D,1.97,"38.550678, -51.403391",177703,98,Public transport,26,Woman,No,0,Rented House,No,Yes,503681,Salary raises
+01/18/2024 03:34:00,Manager,Customer Support,5.92,"-36.220556, -64.439889",624061,119,Carpool,47,Woman,Yes,3,Independent House,No,No,907147,Salary raises
+08/09/2024 17:43:00,Executive,Sales,15.44,"76.808244, -2.486202",525767,15,Car,35,Man,Yes,2,Rented House,No,No,166361,More work from home option
+10/02/2024 03:58:00,Senior Manager,R&D,11.32,"47.979028, 131.903166",802052,16,Car,42,Woman,Yes,2,Rented House,No,Yes,706234,Salary raises
+04/27/2024 09:28:00,Manager,R&D,15.19,"49.496638, 129.031522",560021,92,Walk,45,Other,Yes,4,Rented House,Yes,No,377622,More work from home option
+02/15/2024 16:18:00,Manager,Marketing,14.23,"-38.904075, 28.472177",820434,112,Bicycle,55,Other,Yes,4,Independent House,No,No,348153,Salary raises
+05/29/2024 13:42:00,Director,IT,13.67,"14.014946, 72.577",900046,67,Public transport,41,Man,Yes,2,Hostel,Yes,Yes,458914,Salary raises
+12/17/2024 05:03:00,Senior Manager,Sales,11.91,"24.030958, 113.096615",464223,8,Carpool,45,Woman,No,2,Rented House,No,No,698315,Salary raises
+10/12/2024 22:28:00,VP,Sales,4.51,"-9.589121, 174.526999",492635,39,Carpool,24,Woman,No,1,Hostel,No,Yes,609107,Salary raises
+09/26/2024 22:05:00,Executive,HR,5.21,"-85.065912, 35.956056",383286,32,Two wheeler EV,34,Other,Yes,3,PG,Yes,No,172679,More work from home option
+05/31/2024 02:36:00,Non executive,Finance,1.01,"-14.937158, -69.551826",420706,55,Walk,53,Woman,Yes,3,Independent House,No,Yes,300170,More work from home option
+03/22/2024 12:36:00,Non executive,R&D,2.98,"49.695557, -152.589245",639662,14,Public transport,46,Woman,No,2,Independent House,No,Yes,713378,Salary raises
+02/23/2024 17:39:00,Non executive,Finance,11.91,"23.182092, 152.001413",361013,47,Walk,57,Woman,Yes,3,Independent House,No,No,723531,Salary raises
+04/07/2024 01:05:00,Non executive,Finance,8.96,"63.089573, 176.347832",337323,36,Public transport,36,Man,Yes,4,Independent House,Yes,No,595823,Salary raises
+03/29/2024 19:38:00,Senior Manager,Customer Support,6.6,"-12.072161, -77.973081",637231,60,Car,38,Woman,Yes,3,Independent House,No,No,813829,Salary raises
+02/12/2024 20:07:00,Executive,Finance,10.02,"-54.113942, -94.635677",887741,39,Walk,31,Woman,No,0,Independent House,No,No,672615,Salary raises
+04/05/2024 00:34:00,Director,HR,9.97,"75.314053, -41.172047",838064,75,Walk,58,Man,Yes,3,Independent House,Yes,No,888459,Salary raises
+02/19/2024 23:57:00,VP,Customer Support,10.03,"57.994237, -14.670916",357407,64,Public transport,58,Other,No,4,Apartment,No,Yes,570948,Salary raises
+09/11/2024 13:16:00,Director,Customer Support,6.94,"72.3175, 21.841219",703399,48,Bicycle,30,Other,No,4,PG,Yes,Yes,823316,Salary raises
+05/08/2024 16:50:00,Executive,Marketing,4.94,"-20.574064, 26.568876",357978,108,Bicycle,54,Other,No,2,Independent House,No,No,247806,More work from home option
+09/13/2024 22:15:00,Director,IT,3.92,"-88.900535, 100.330839",105522,62,Car,24,Woman,Yes,4,Rented House,No,No,525527,Salary raises
+06/20/2024 07:54:00,VP,HR,17.93,"18.974819, -85.510859",768338,114,Carpool,46,Woman,No,0,PG,No,No,746943,More work from home option
+02/23/2024 18:51:00,Manager,R&D,5.75,"58.461527, 142.408851",163107,79,Bicycle,52,Woman,No,4,Apartment,No,No,559321,Salary raises
+04/02/2024 10:00:00,Director,Finance,3.9,"-58.132554, -31.081143",176136,36,Bicycle,48,Other,No,1,PG,Yes,Yes,327141,More work from home option
+02/20/2024 07:03:00,Manager,Customer Support,14.84,"10.267878, -42.613482",226442,7,Public transport,24,Woman,Yes,3,Hostel,Yes,No,540104,More work from home option
+12/19/2024 12:39:00,Manager,Customer Support,19.29,"-33.530082, -177.974317",478022,23,Public transport,21,Man,No,2,Independent House,Yes,Yes,486840,Salary raises
+08/09/2024 13:56:00,Executive,Marketing,4.37,"84.629927, 106.60218",531919,36,Bicycle,42,Woman,No,1,PG,Yes,Yes,544761,Salary raises
+03/04/2024 18:25:00,Executive,HR,17.57,"33.811995, 123.835948",196165,8,Walk,53,Other,Yes,1,Apartment,Yes,Yes,543010,Salary raises
+12/07/2024 07:14:00,Executive,HR,16.92,"75.537954, -17.420322",318062,103,Carpool,57,Man,No,0,Rented House,Yes,No,605076,Salary raises
+11/24/2024 07:23:00,VP,Marketing,2.93,"-68.770943, 119.077324",403856,11,Carpool,37,Other,Yes,3,Independent House,No,No,571755,More work from home option
+01/15/2024 14:50:00,Executive,Sales,4.28,"-50.885684, -77.835603",748930,29,Public transport,38,Woman,No,2,PG,Yes,Yes,634342,More work from home option
+11/18/2024 17:56:00,Senior Manager,HR,2.19,"76.354658, -79.164798",795195,31,Public transport,54,Man,No,2,PG,Yes,Yes,262681,More work from home option
+10/07/2024 06:26:00,Senior Manager,Marketing,16.81,"-31.143574, -112.546474",947296,81,Bicycle,37,Man,No,3,PG,Yes,Yes,751823,Salary raises
+10/18/2024 04:09:00,Director,Finance,16.18,"-45.387385, -159.205794",895166,85,Two wheeler EV,36,Woman,No,0,Rented House,Yes,No,850137,Salary raises
+10/19/2024 19:39:00,Manager,Customer Support,3.9,"-29.977355, 31.525628",808677,35,Walk,57,Woman,Yes,1,Apartment,No,No,873226,More work from home option
+11/18/2024 14:48:00,VP,R&D,15.49,"23.422395, 13.13452",232391,117,Walk,53,Woman,Yes,3,Apartment,Yes,Yes,166550,Salary raises
+11/12/2024 19:31:00,Director,HR,3.24,"87.919386, -125.424492",138788,85,Bicycle,25,Woman,Yes,0,Independent House,No,No,680443,More work from home option
+04/10/2024 16:38:00,Non executive,Marketing,1.1,"-65.962773, -64.10681",691974,90,Public transport,49,Woman,No,0,Independent House,Yes,No,887551,More work from home option
+08/30/2024 10:13:00,VP,Customer Support,7.61,"-12.187019, -50.655208",398737,14,Public transport,49,Man,No,2,Independent House,Yes,Yes,337896,Salary raises
+08/15/2024 14:25:00,Executive,IT,17.92,"66.37258, -142.716708",871954,112,Carpool,30,Woman,Yes,4,Rented House,No,Yes,897960,Salary raises
+01/26/2024 14:06:00,Executive,HR,10.78,"43.62367, 136.483688",209008,21,Public transport,29,Woman,Yes,3,Hostel,No,No,938363,More work from home option
+12/29/2024 06:24:00,Executive,Marketing,12.21,"70.309469, 85.028182",585167,12,Two wheeler EV,41,Woman,Yes,3,Apartment,No,No,229201,More work from home option
+05/05/2024 05:13:00,Non executive,Sales,11.67,"43.081893, 99.896409",793079,97,Bicycle,56,Man,No,3,Hostel,No,No,791780,More work from home option
+01/20/2024 12:52:00,Senior Manager,R&D,18.54,"49.031992, -69.415787",989818,13,Two wheeler EV,30,Other,Yes,3,Independent House,Yes,No,666619,Salary raises
+05/07/2024 04:50:00,VP,HR,0.79,"22.247039, -64.588082",670175,66,Public transport,35,Man,No,4,Apartment,No,Yes,235773,More work from home option
+07/12/2024 14:24:00,Non executive,Marketing,2.97,"-59.456789, -111.429138",360458,5,Public transport,26,Woman,Yes,2,Independent House,Yes,Yes,613378,More work from home option
+11/16/2024 21:17:00,Senior Manager,Customer Support,2.11,"-7.812174, -67.370005",557913,78,Two wheeler EV,41,Other,Yes,4,Hostel,Yes,Yes,469679,Salary raises
+02/13/2024 00:35:00,Senior Manager,Marketing,15.05,"2.756235, -136.067021",308832,100,Public transport,51,Man,No,2,PG,No,Yes,483025,More work from home option
+02/22/2024 14:24:00,Senior Manager,Sales,12.38,"-11.797877, -174.478194",402817,64,Carpool,34,Man,Yes,4,PG,No,Yes,910275,More work from home option
+12/04/2024 18:37:00,Senior Manager,R&D,8.62,"-27.578332, 35.690727",750611,81,Bicycle,49,Woman,Yes,0,PG,No,Yes,169774,Salary raises
+02/20/2024 13:06:00,Non executive,Marketing,1.04,"10.657622, 152.265486",633456,25,Public transport,59,Man,No,0,Independent House,No,No,605084,More work from home option
+04/22/2024 22:09:00,Non executive,Marketing,15.11,"-8.254199, 121.123966",575893,44,Carpool,47,Woman,No,4,Rented House,Yes,No,473386,More work from home option
+11/19/2024 11:33:00,Senior Manager,Customer Support,2.5,"21.941484, 132.680492",394384,81,Bicycle,49,Other,Yes,4,Independent House,Yes,No,343143,Salary raises
+12/15/2024 16:29:00,Director,Finance,10.89,"-33.899019, 55.043317",545899,8,Public transport,54,Other,Yes,3,Apartment,Yes,No,923869,More work from home option
+04/03/2024 11:49:00,Director,Marketing,7.92,"30.974033, -157.0783",826720,40,Carpool,36,Woman,No,2,Hostel,No,No,212314,More work from home option
+06/28/2024 17:41:00,Director,Customer Support,19.61,"4.247561, -152.013278",615767,23,Carpool,49,Other,Yes,0,Rented House,Yes,No,927984,Salary raises
+12/10/2024 13:35:00,VP,Marketing,14.92,"-25.75328, -28.85351",851775,92,Walk,42,Woman,Yes,1,Hostel,No,No,187601,More work from home option
+04/07/2024 16:53:00,VP,IT,17.02,"85.114872, 24.050023",947860,55,Public transport,22,Other,Yes,1,Apartment,Yes,Yes,108039,More work from home option
+05/24/2024 09:15:00,Non executive,IT,3.47,"-54.321541, 152.904259",544144,46,Public transport,24,Man,Yes,2,Apartment,No,Yes,617107,More work from home option
+12/16/2024 17:01:00,Executive,IT,9.96,"-38.438127, 61.501962",660504,57,Bicycle,60,Woman,Yes,0,Independent House,No,Yes,852585,Salary raises
+09/18/2024 17:14:00,Non executive,IT,7.97,"34.217769, -62.796191",124173,52,Bicycle,40,Man,No,3,Rented House,No,No,755417,Salary raises
+09/20/2024 18:53:00,Executive,R&D,1.96,"65.190642, -92.671595",222471,63,Carpool,40,Other,Yes,4,Rented House,Yes,No,216965,Salary raises
+05/04/2024 16:22:00,VP,HR,7.85,"-56.678853, -6.285193",790515,89,Two wheeler EV,60,Woman,No,1,PG,No,Yes,420197,Salary raises
+02/29/2024 04:29:00,Executive,R&D,18.63,"-32.527107, 140.316344",771131,56,Public transport,59,Other,No,1,PG,No,Yes,888469,Salary raises
+09/15/2024 06:24:00,Manager,IT,16.08,"58.845516, 97.858012",288998,72,Car,22,Other,Yes,1,PG,Yes,No,925216,More work from home option
+03/07/2024 22:19:00,Manager,Marketing,12.99,"44.023883, -46.260758",931951,90,Carpool,33,Man,No,2,Independent House,No,No,278067,More work from home option
+09/05/2024 00:48:00,Manager,Sales,19.72,"-6.934385, -113.536031",387271,24,Car,43,Other,No,2,Hostel,No,Yes,937606,Salary raises
+07/11/2024 04:55:00,Director,Sales,0.37,"-11.875918, -136.44486",353226,58,Two wheeler EV,24,Woman,No,3,Independent House,No,No,608319,Salary raises
+05/24/2024 06:40:00,VP,Finance,3.91,"-51.643421, 62.903503",377073,69,Public transport,46,Other,Yes,1,Hostel,Yes,Yes,688247,More work from home option
+06/19/2024 17:54:00,Senior Manager,HR,16.12,"-87.041232, 174.834106",608660,89,Carpool,30,Man,No,0,Hostel,Yes,Yes,123688,More work from home option
+11/29/2024 00:02:00,Senior Manager,R&D,10.33,"-69.928678, 157.313076",536242,14,Bicycle,44,Man,No,4,Independent House,Yes,Yes,624089,More work from home option
+07/22/2024 08:05:00,Non executive,IT,5.88,"46.337213, -29.363025",771493,37,Carpool,32,Man,Yes,0,PG,Yes,Yes,430146,Salary raises
+08/12/2024 05:07:00,Director,Sales,15.84,"-86.388776, 80.74586",792015,99,Two wheeler EV,25,Other,Yes,4,Hostel,No,No,374776,Salary raises
+05/01/2024 22:03:00,Senior Manager,Sales,4.17,"-84.145487, 47.081686",496512,105,Two wheeler EV,50,Man,Yes,1,Rented House,Yes,Yes,444542,Salary raises
+02/27/2024 02:53:00,Manager,Finance,16.28,"33.899201, -154.14961",635512,71,Bicycle,27,Woman,Yes,3,Rented House,Yes,Yes,228782,More work from home option
+05/24/2024 17:37:00,Non executive,Customer Support,0.7,"22.3109, 34.437867",254707,17,Carpool,40,Other,No,1,Apartment,No,No,339419,Salary raises
+04/16/2024 09:51:00,VP,HR,6.93,"-56.316522, 174.301314",432236,46,Walk,46,Other,Yes,2,Hostel,No,No,131996,More work from home option
+09/17/2024 07:05:00,Non executive,Marketing,4.54,"15.525271, -28.668693",741626,94,Bicycle,32,Man,No,0,Independent House,No,Yes,392380,More work from home option
+02/17/2024 06:54:00,Senior Manager,Customer Support,8.26,"61.633465, 17.237758",877384,49,Bicycle,30,Other,Yes,0,Apartment,Yes,Yes,641979,Salary raises
+07/25/2024 20:24:00,VP,R&D,7.69,"-38.360829, 106.70585",203899,20,Two wheeler EV,40,Man,No,4,Independent House,No,No,330796,Salary raises
+06/22/2024 07:52:00,VP,Sales,17.89,"-82.289533, -27.226178",488935,8,Public transport,55,Other,Yes,0,Hostel,No,Yes,365291,More work from home option
+10/19/2024 22:53:00,Non executive,HR,13.34,"43.539328, 45.134893",117713,94,Car,27,Man,Yes,1,Rented House,No,Yes,902384,Salary raises
+02/25/2024 21:36:00,Non executive,R&D,4.5,"25.611446, -53.260094",925790,74,Carpool,57,Other,No,2,Independent House,No,No,632303,Salary raises
+03/08/2024 12:23:00,Senior Manager,Marketing,18.57,"66.345105, 179.527383",180705,10,Two wheeler EV,30,Man,No,1,PG,No,Yes,841724,Salary raises
+09/01/2024 13:05:00,Senior Manager,R&D,9.19,"-75.640087, -155.931435",236826,111,Car,33,Woman,Yes,2,Rented House,No,No,994911,Salary raises
+05/14/2024 21:18:00,Non executive,Marketing,8.54,"41.766856, 21.359998",567618,19,Two wheeler EV,50,Man,No,0,Apartment,Yes,Yes,957494,More work from home option
+04/23/2024 17:38:00,Non executive,Marketing,15.05,"-14.178541, -84.535702",156298,47,Bicycle,52,Other,Yes,0,PG,Yes,No,907536,Salary raises
+07/19/2024 09:43:00,Senior Manager,HR,0.15,"-15.31182, -75.280186",492563,28,Carpool,57,Man,No,3,Hostel,Yes,Yes,224947,More work from home option
